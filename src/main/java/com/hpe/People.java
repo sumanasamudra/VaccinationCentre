@@ -1,4 +1,4 @@
-package com.hpe;
+package com.hpe;  
 
 public class People implements Comparable<People>{
 	 	private  Object name;
