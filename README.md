@@ -7,17 +7,17 @@ This is the simple maven project to find distance between two point of locations
 4. Eclipse
 # Setup and configuration
 Configure pom.xml and add dependencies
-<dependency>
+> <dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
     <version>2.5</version>
-</dependency>
-  <dependency>
+ </dependency>
+ > <dependency>
     <groupId>com.googlecode.json-simple</groupId>
     <artifactId>json-simple</artifactId>
     <version>1.1.1</version>
-</dependency>
-     <dependency>
+ </dependency>
+  > <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
